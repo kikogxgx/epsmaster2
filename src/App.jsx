@@ -1,5 +1,5 @@
-import React from 'https://cdn.skypack.dev/react@18.2.0';
-import { Routes, Route, Link } from 'https://cdn.skypack.dev/react-router-dom@6.21.2';
+import React from 'https://unpkg.com/react@18.2.0?module';
+import { Routes, Route, Link } from 'https://unpkg.com/react-router-dom@6.21.2?module';
 import ClassesPage from './pages/ClassesPage.jsx';
 import StudentsPage from './pages/StudentsPage.jsx';
 import CyclesPage from './pages/CyclesPage.jsx';

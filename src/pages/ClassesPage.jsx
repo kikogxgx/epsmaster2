@@ -1,4 +1,4 @@
-import React from 'https://cdn.skypack.dev/react@18.2.0';
+import React from 'https://unpkg.com/react@18.2.0?module';
 
 export default function ClassesPage() {
   return (
